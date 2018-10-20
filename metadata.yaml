@@ -1,5 +1,5 @@
 _repo: In-the-Blue-Pike-Volume-03_5586
-_version: 0.2.0
+_version: 0.2.1
 contributor:
   translator:
     agent_name: Safford, Mary J.
@@ -34,5 +34,6 @@ subjects:
 - !lcsh 'German fiction -- Translations into English'
 - !lcc 'PT'
 - !lcsh 'Germany -- Fiction'
+- GITenberg
 title: In the Blue Pike — Volume 03
 url: http://www.gutenberg.org/ebooks/5586
